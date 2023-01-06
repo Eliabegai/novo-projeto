@@ -1,0 +1,22 @@
+.content_table {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+Input {
+    margin-right: 1em;
+    text-decoration: none;
+}
+
+Input::placeholder {
+    color: #7b7b7b;
+}
+
+Select {
+    position: relative;
+    right: 9.5%;
+}

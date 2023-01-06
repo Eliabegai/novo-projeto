@@ -1,0 +1,80 @@
+{
+  "procedimentos": [
+    {
+      "name": "Teste Procedimento",
+      "description": "Teste Descrição",
+      "equipament": "Teste Equipamento",
+      "budget": "12345",
+      "category": {
+        "id": "1",
+        "name": "Odontologico"
+      },
+      "id": 1
+    },
+    {
+      "name": "Procedimento de carregar tijolo",
+      "description": "vai carregar tijolo até o japão",
+      "equipament": "carrinho de mão",
+      "budget": "4",
+      "category": {
+        "id": "2",
+        "name": "Estética"
+      },
+      "id": 2
+    },
+    {
+      "name": "teste 2",
+      "description": "rewfdsfs",
+      "equipament": "wsfdsfdsf",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Odontologico"
+      },
+      "id": 3
+    },
+    {
+      "name": "rewfef",
+      "description": "fewfewf",
+      "equipament": "feewfew",
+      "budget": "43242",
+      "category": {
+        "id": "1",
+        "name": "Odontologico"
+      },
+      "id": 4
+    },
+    {
+      "name": "procedimento",
+      "description": "alguma coisa",
+      "equipament": "sei la",
+      "budget": "234235",
+      "category": {
+        "id": "1",
+        "name": "Odontologico"
+      },
+      "id": 5
+    },
+    {
+      "name": "martelada",
+      "description": "martelada forte",
+      "equipament": "martelo",
+      "budget": "10",
+      "category": {
+        "id": "2",
+        "name": "Estética"
+      },
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Odontologico"
+    },
+    {
+      "id": 2,
+      "name": "Estética"
+    }
+  ]
+}

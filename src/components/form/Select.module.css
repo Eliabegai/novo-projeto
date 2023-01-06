@@ -1,0 +1,22 @@
+.form_control {
+    display: grid;
+    margin-bottom: 1rem;
+    font-size: 20px;
+}
+
+.form_control label {
+    display: grid;
+    position: relative;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    color: #fff;
+    right: 9.5%;
+}
+
+.form_control select {
+    padding: 0.4rem;
+    border: 0.15rem solid #666;
+    outline: 0;
+    width: 50em;
+    height: 3em;
+}

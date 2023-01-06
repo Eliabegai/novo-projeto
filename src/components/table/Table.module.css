@@ -1,0 +1,44 @@
+.content_head {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.content_head table {
+    border-collapse: collapse;
+    border: 0.15rem solid #666;
+    width: 100%;
+    font-size: 1.3em;
+}
+
+.content_head table tr {
+    height: 2em;
+}
+
+.content_head table th{
+    background-color: #c9d6ff;
+}
+
+.content_head table td th{
+    padding: 0.4rem 0.3rem;
+}
+
+.content_select{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 1em 0;
+    left: 8em;
+}
+.content_select select {
+    padding: 0.4rem;
+    border: 0.15rem solid #666;
+    outline: 0;
+    width: 10em;
+    height: 3em;
+    text-align: center;
+    font-size: 1em;
+}

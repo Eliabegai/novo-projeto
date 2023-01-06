@@ -1,0 +1,34 @@
+.rows {
+    color: #222;
+}
+
+.rows td {
+    padding: 0.5em;
+}
+
+.center {
+    text-align: center;
+}
+
+.action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.action button {
+    background-color: #f63;
+    transition: 0.5s;
+}
+
+.action svg {
+    font-size: 1.5em;
+    color: #222;
+}
+
+.action svg:hover, button:hover{
+    color: #ff6633;
+}

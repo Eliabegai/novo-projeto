@@ -1,0 +1,69 @@
+{
+  "procedures": [
+    {
+      "name": "Teste Procedimento",
+      "description": "Teste Descrição",
+      "equipament": "Teste Equipamento",
+      "budget": "12345",
+      "category": {
+        "id": "1",
+        "name": "Dental"
+      },
+      "id": 1
+    },
+    {
+      "name": "novo teste",
+      "description": "teste descrição 2",
+      "equipament": "teste equipamento 3",
+      "budget": "23425",
+      "category": {
+        "id": "2",
+        "name": "Aesthetic"
+      },
+      "id": 2
+    },
+    {
+      "name": "teste para edição",
+      "description": "teste para procedimento",
+      "equipament": "teste para equipamento",
+      "budget": "423432",
+      "category": {
+        "id": "1",
+        "name": "Dental"
+      },
+      "id": 3
+    },
+    {
+      "name": "fsdfsdfs",
+      "description": "fsdfsfdsd",
+      "equipament": "fsdfsfds",
+      "budget": "343432",
+      "category": {
+        "id": "1",
+        "name": "Aesthetic"
+      },
+      "id": 6
+    },
+    {
+      "category": {
+        "id": "0",
+        "name": "Dental"
+      },
+      "name": "xbdfbdb",
+      "description": "dfbdfbdb",
+      "equipament": "dbdbdfbdb",
+      "budget": "34532543",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Dental"
+    },
+    {
+      "id": 1,
+      "name": "Aesthetic"
+    }
+  ]
+}

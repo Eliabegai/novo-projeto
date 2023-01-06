@@ -1,0 +1,22 @@
+.card {
+    padding: 0.3rem;
+    width: 50em;
+}
+
+.lineInput {
+    display: grid;
+    margin-bottom: 1rem;
+}
+.lineInput span{
+    display: grid;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    color: #fff;
+}
+input {
+    padding: 0.4rem;
+    border: 0.15rem solid #3e3e3e;
+    outline: 0;
+    width: 50em;
+    height: 3em;
+}

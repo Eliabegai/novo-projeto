@@ -1,0 +1,42 @@
+.home_container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2em;
+    align-items: center;
+}
+.home_container h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    color: #ff6633;
+}
+
+.container_btn {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1em;
+    align-items: center;
+}
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}
+
+.table_container {
+    margin: 1em 0;
+    width: 100%;
+    align-items: center;
+}
